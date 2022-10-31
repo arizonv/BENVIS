@@ -1,3 +1,6 @@
+npm install
+
+
 git add . 
 
 git commit -m "ok"
