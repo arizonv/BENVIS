@@ -3,6 +3,6 @@ npm install
 
 git add . 
 
-git commit -m "ok"
+git commit -m "okkk"
 
 git push
